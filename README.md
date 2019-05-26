@@ -1,2 +1,0 @@
-# db
-kkm &amp; jsm
